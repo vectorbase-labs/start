@@ -1,0 +1,21 @@
+{
+    "name": "vectorbase-app",
+    "version": "1.0.0",
+    "description": "A project for VectorBase.",
+    "main": "index.js",
+    "scripts": {
+      "build": "tsc",
+    },
+    "keywords": [
+      "vectorbase",
+      "app"
+    ],
+    "author": "",
+    "license": "MIT",
+    "dependencies": {
+      "create-vectorbase-app": "1.0.0"
+    },
+    "devDependencies": {
+      "typescript": "^5.0.0"
+    }
+  }  
